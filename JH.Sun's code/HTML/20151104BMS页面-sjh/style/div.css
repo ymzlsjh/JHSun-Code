@@ -1,0 +1,51 @@
+#box {
+	text-align: left;
+	height: 980px;
+	width: 920px;
+	margin: 0 auto;
+}
+#top {
+	background-image: url(../images/002.jpg);
+	background-repeat: no-repeat;
+	height: 264px;
+	width: 920px;
+}
+#main {
+	background-image: url(../images/003.jpg);
+	background-repeat: repeat-y;
+	height: 595px;
+	width: 920px;
+}
+#banner {
+	height: 105px;
+	width: 920px;
+}
+#left {
+	float: left;
+	height: 450px;
+	width: 337px;
+	margin-left: 25px;
+	margin-top: 18px;
+}
+#right {
+	line-height: 18px;
+	background-image: url(../images/005.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	float: left;
+	height: 457px;
+	width: 456px;
+	margin-top: 18px;
+	padding-right: 17px;
+	padding-left: 16px;
+	padding-top: 15px;
+}
+#bottom {
+	line-height: 18px;
+	background-image: url(../images/006.jpg);
+	background-repeat: no-repeat;
+	height: 60px;
+	width: 843px;
+	padding-top: 54px;
+	padding-left: 77px;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	ul{
+		border: 1px solid blue;
+	}
+	li{
+		border:1px solid green;
+	}
+
+	</style>
+</head>
+<body>
+	<div>
+		相同的元素如li，在不同的浏览器下，显示的效果略有不同<br />
+		因为浏览器对各个元素的margin,font-size,border,等略有不同，<br />
+		为了杜绝这种情况的发生，我们通过css强制让所有元素的属性值都一样，达到一样的效果<br />
+		这样浏览器就一致辣！减少了不兼容情况的发生<br />
+		这个过程叫做CSS初始化<br />
+		<ul>
+			<li>a</li>
+			<li>b</li>
+			<li>c</li>
+			<li>d</li>
+		</ul>
+	</div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1445766802 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\main.cpp
+	<iostream>
+	"counter.h"
+
+1445766802 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\counter().cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445761478 c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\counter.h
+
+1445764275 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\counter(int).cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445763616 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\decrement.cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445766515 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\getcount().cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445766344 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\getmaxvalue.cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445766843 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\increment().cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445767222 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\setcount(int).cpp
+	"counter.h"
+	<iostream>
+	<climits>
+
+1445767220 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151025]counter\counter\setmaxvalue(int).cpp
+	"counter.h"
+	<iostream>
+	<climits>
+

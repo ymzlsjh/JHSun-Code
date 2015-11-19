@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446201076 source:c:\users\m123oooo\documents\每日备份20151027\jh.sun's code\c++\[20151030]埃拉托斯特尼筛法\demo\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdio>
+	<cctype>
+	<vector>
+	<bitset>
+	<cmath>
+

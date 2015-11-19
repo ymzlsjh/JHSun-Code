@@ -1,0 +1,200 @@
+1900 is not a leap year.
+1901 is not a leap year.
+1902 is not a leap year.
+1903 is not a leap year.
+1904 is a leap year.
+1905 is not a leap year.
+1906 is not a leap year.
+1907 is not a leap year.
+1908 is a leap year.
+1909 is not a leap year.
+1910 is not a leap year.
+1911 is not a leap year.
+1912 is a leap year.
+1913 is not a leap year.
+1914 is not a leap year.
+1915 is not a leap year.
+1916 is a leap year.
+1917 is not a leap year.
+1918 is not a leap year.
+1919 is not a leap year.
+1920 is a leap year.
+1921 is not a leap year.
+1922 is not a leap year.
+1923 is not a leap year.
+1924 is a leap year.
+1925 is not a leap year.
+1926 is not a leap year.
+1927 is not a leap year.
+1928 is a leap year.
+1929 is not a leap year.
+1930 is not a leap year.
+1931 is not a leap year.
+1932 is a leap year.
+1933 is not a leap year.
+1934 is not a leap year.
+1935 is not a leap year.
+1936 is a leap year.
+1937 is not a leap year.
+1938 is not a leap year.
+1939 is not a leap year.
+1940 is a leap year.
+1941 is not a leap year.
+1942 is not a leap year.
+1943 is not a leap year.
+1944 is a leap year.
+1945 is not a leap year.
+1946 is not a leap year.
+1947 is not a leap year.
+1948 is a leap year.
+1949 is not a leap year.
+1950 is not a leap year.
+1951 is not a leap year.
+1952 is a leap year.
+1953 is not a leap year.
+1954 is not a leap year.
+1955 is not a leap year.
+1956 is a leap year.
+1957 is not a leap year.
+1958 is not a leap year.
+1959 is not a leap year.
+1960 is a leap year.
+1961 is not a leap year.
+1962 is not a leap year.
+1963 is not a leap year.
+1964 is a leap year.
+1965 is not a leap year.
+1966 is not a leap year.
+1967 is not a leap year.
+1968 is a leap year.
+1969 is not a leap year.
+1970 is not a leap year.
+1971 is not a leap year.
+1972 is a leap year.
+1973 is not a leap year.
+1974 is not a leap year.
+1975 is not a leap year.
+1976 is a leap year.
+1977 is not a leap year.
+1978 is not a leap year.
+1979 is not a leap year.
+1980 is a leap year.
+1981 is not a leap year.
+1982 is not a leap year.
+1983 is not a leap year.
+1984 is a leap year.
+1985 is not a leap year.
+1986 is not a leap year.
+1987 is not a leap year.
+1988 is a leap year.
+1989 is not a leap year.
+1990 is not a leap year.
+1991 is not a leap year.
+1992 is a leap year.
+1993 is not a leap year.
+1994 is not a leap year.
+1995 is not a leap year.
+1996 is a leap year.
+1997 is not a leap year.
+1998 is not a leap year.
+1999 is not a leap year.
+2000 is a leap year.
+2001 is not a leap year.
+2002 is not a leap year.
+2003 is not a leap year.
+2004 is a leap year.
+2005 is not a leap year.
+2006 is not a leap year.
+2007 is not a leap year.
+2008 is a leap year.
+2009 is not a leap year.
+2010 is not a leap year.
+2011 is not a leap year.
+2012 is a leap year.
+2013 is not a leap year.
+2014 is not a leap year.
+2015 is not a leap year.
+2016 is a leap year.
+2017 is not a leap year.
+2018 is not a leap year.
+2019 is not a leap year.
+2020 is a leap year.
+2021 is not a leap year.
+2022 is not a leap year.
+2023 is not a leap year.
+2024 is a leap year.
+2025 is not a leap year.
+2026 is not a leap year.
+2027 is not a leap year.
+2028 is a leap year.
+2029 is not a leap year.
+2030 is not a leap year.
+2031 is not a leap year.
+2032 is a leap year.
+2033 is not a leap year.
+2034 is not a leap year.
+2035 is not a leap year.
+2036 is a leap year.
+2037 is not a leap year.
+2038 is not a leap year.
+2039 is not a leap year.
+2040 is a leap year.
+2041 is not a leap year.
+2042 is not a leap year.
+2043 is not a leap year.
+2044 is a leap year.
+2045 is not a leap year.
+2046 is not a leap year.
+2047 is not a leap year.
+2048 is a leap year.
+2049 is not a leap year.
+2050 is not a leap year.
+2051 is not a leap year.
+2052 is a leap year.
+2053 is not a leap year.
+2054 is not a leap year.
+2055 is not a leap year.
+2056 is a leap year.
+2057 is not a leap year.
+2058 is not a leap year.
+2059 is not a leap year.
+2060 is a leap year.
+2061 is not a leap year.
+2062 is not a leap year.
+2063 is not a leap year.
+2064 is a leap year.
+2065 is not a leap year.
+2066 is not a leap year.
+2067 is not a leap year.
+2068 is a leap year.
+2069 is not a leap year.
+2070 is not a leap year.
+2071 is not a leap year.
+2072 is a leap year.
+2073 is not a leap year.
+2074 is not a leap year.
+2075 is not a leap year.
+2076 is a leap year.
+2077 is not a leap year.
+2078 is not a leap year.
+2079 is not a leap year.
+2080 is a leap year.
+2081 is not a leap year.
+2082 is not a leap year.
+2083 is not a leap year.
+2084 is a leap year.
+2085 is not a leap year.
+2086 is not a leap year.
+2087 is not a leap year.
+2088 is a leap year.
+2089 is not a leap year.
+2090 is not a leap year.
+2091 is not a leap year.
+2092 is a leap year.
+2093 is not a leap year.
+2094 is not a leap year.
+2095 is not a leap year.
+2096 is a leap year.
+2097 is not a leap year.
+2098 is not a leap year.
+2099 is not a leap year.

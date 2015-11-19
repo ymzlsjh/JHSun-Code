@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/10/21 9:20:40。
+     1>项目“C:\Users\m123oooo\Documents\每日备份20151015\JH.Sun's code\C\20151021\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c\20151021\consoleapplication1\consoleapplication1\源.cpp(50): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c\20151021\consoleapplication1\consoleapplication1\源.cpp(66): warning C4172: 返回局部变量或临时变量的地址
+     1>已完成生成项目“C:\Users\m123oooo\Documents\每日备份20151015\JH.Sun's code\C\20151021\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29

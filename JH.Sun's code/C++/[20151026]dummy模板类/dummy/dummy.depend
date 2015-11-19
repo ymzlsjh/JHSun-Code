@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1445848543 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151026dummy模板类]\dummy\dummy.cpp
+	"dummy.h"
+	<iostream>
+
+1445848857 c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151026dummy模板类]\dummy\dummy.h
+
+1445848364 source:c:\users\m123oooo\documents\每日备份20151015\jh.sun's code\c++\[20151026dummy模板类]\dummy\main.cpp
+	"dummy.h"
+	<iostream>
+	<string>
+

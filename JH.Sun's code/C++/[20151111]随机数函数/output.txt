@@ -1,0 +1,11 @@
+
+ var  epoi1 = new BMap.Point(126.705041,45.748467);  //终点1
+ var  epoi2 = new BMap.Point(126.711375,45.754967);  //终点2
+ var  epoi3 = new BMap.Point(126.720544,45.760691);  //终点3
+ var  epoi4 = new BMap.Point(126.722022,45.770049);  //终点4
+ var  epoi5 = new BMap.Point(126.728984,45.774513);  //终点5
+ var  epoi6 = new BMap.Point(126.734689,45.782658);  //终点6
+ var  epoi7 = new BMap.Point(126.737970,45.789485);  //终点7
+ var  epoi8 = new BMap.Point(126.747931,45.789976);  //终点8
+ var  epoi9 = new BMap.Point(126.750926,45.791918);  //终点9
+ var  epoi10 = new BMap.Point(126.755753,45.797354);  //终点10

@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style type="text/css">
+#div1 {width:488px;height:70px;padding:10px;border:1px solid #aaaaaa;}
+</style>
+<script type="text/javascript">
+function allowDrop(ev)
+{
+ev.preventDefault();/*调用 preventDefault()*/ /*来避免浏览器对数据的默认处理（drop 事件的默认行为是以链接形式打开）*/
+}
+
+function drag(ev)
+{
+ev.dataTransfer.setData("Text",ev.target.id);/*这个方法设置了被拖数据的数据类型和值，数据类型是“text”，值是可拖动元素的id（“drag1”）*/
+}
+
+function drop(ev)
+{
+ev.preventDefault();/*阻止默认的元素默认处理方式，默认是没办法拖动的。*/
+var data=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(data));
+}
+</script>
+</head>
+<body>
+
+<p>请把 W3School 的图片拖放到矩形中：</p>
+
+<div id="div1" ondrop="drop(event)"  ondragover="allowDrop(event)"></div>  <!-- 调用了drop函数 -->
+<br />
+<img id="drag1" src="/i/w3school_banner.gif" draggable="true" ondragstart="drag(event)" />
+
+</body>
+</html>

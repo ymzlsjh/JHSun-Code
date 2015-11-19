@@ -1,0 +1,74 @@
+body{
+   padding-top:51px;
+   padding-bottom:40px;
+}
+
+.showMe{
+    display: block;
+}
+
+
+
+.sideBar{
+    z-index:1000;
+    background-color: rgb(205,235,211);
+    height:800px;
+/*    border-radius: 5px;*/
+    overflow-x:hidden;
+    /*margin-left: 16px; 如果不加这句话，那么左边框就会不见 或者在在sideTabBar加padding 将内容撑开 */ 
+}
+.sideTabBar{
+    padding: 20px 0 20px 18px;
+    list-style-type: none;  
+   
+}
+.sideTabBar > li{
+    height: 50px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    list-style-type: none;
+}
+.sideTabBar > li:hover{
+    background: cornflowerblue;
+}
+.sideTabBar > li >a{
+    display: block;
+    height: 50px;
+    text-decoration: none;
+    line-height: 50px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: black;
+}
+.sideTabBar > li >a:hover{
+    color:azure;
+}
+
+.main{
+    height:800px;
+    padding:18px;
+    background-color: rgb(252,206,142);
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

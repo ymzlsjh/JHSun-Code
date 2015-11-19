@@ -1,0 +1,20 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+body {
+	font-family: "ËÎÌו";
+	font-size: 12px;
+	color: #4F432B;
+	background-image: url(../images/001.jpg);
+	background-repeat: repeat-x;
+	text-align: center;
+}
+.font01 {
+	color: #806C46;
+}
+.font02 {
+	float: right;
+	margin-right: 65px;
+}
