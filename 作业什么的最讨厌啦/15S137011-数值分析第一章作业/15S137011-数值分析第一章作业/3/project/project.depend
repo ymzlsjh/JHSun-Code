@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444483774 source:c:\users\administrator\desktop\15s137011-数值分析第一章作业\3\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
